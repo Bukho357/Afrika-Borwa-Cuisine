@@ -5,12 +5,6 @@ Built with HTML, CSS, and vanilla JavaScript.
 
 ---
 
-## 📸 Live Preview
-
-_🎯 Coming Soon or deploy with GitHub Pages / Netlify_
-
----
-
 ## 📌 Project Description
 
 **Afrika Borwa Cuisine** is a cultural and culinary website representing authentic isiXhosa meals and traditional South African food items. The design embraces bold visuals, clean responsive layout, and smooth interactivity — ideal for restaurants, food stalls, or heritage cuisine vendors.
