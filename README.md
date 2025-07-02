@@ -70,5 +70,3 @@ This beginner-friendly project is built entirely using:
    - Copyright
 
 ---
-
-## 🧑‍💻 Code Files
